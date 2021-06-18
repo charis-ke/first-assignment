@@ -1,0 +1,60 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    background-color:cornsilk    ;
+    color: black;
+}
+h1.title{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+h3{
+    text-align:center;
+    color:black;
+    font-weight: bold;
+ padding: 20px;
+
+}
+.footer{
+    background-color: rgb(63, 8, 8);
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+.footer h2{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+  
+    
+    
+}
+.navbar a{font-weight: bold;
+    font-size: 24px;
+    color: white!important;
+
+}
+p{
+    color: black;
+    
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: justify;
+    text-transform: none;
+}
+.containers img{
+    max-height:360px;
+    max-width: 80%;
+}
+h5{
+   
+    font-weight: bold;
+    text-align: left;
+}
+
+
